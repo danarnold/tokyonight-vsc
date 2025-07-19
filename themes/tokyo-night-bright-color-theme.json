@@ -323,8 +323,12 @@
       "settings": { "foreground": "#89ddff" }
     },
     {
-      "scope": ["invalid", "invalid.illegal"],
-      "settings": { "foreground": "#1a1b26" }
+      "scope": ["invalid"],
+      "settings": { "foreground": "#ff9e64" }
+    },
+    {
+      "scope": ["invalid.illegal"],
+      "settings": { "foreground": "#f7768e" }
     },
     {
       "scope": ["markup.heading", "markup.heading.markdown"],
