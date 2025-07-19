@@ -17,7 +17,7 @@
       }
     ]
   },
-  "icon": "",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/danarnold/tokyonight-vsc"
