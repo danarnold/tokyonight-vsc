@@ -6,6 +6,8 @@ A Visual Studio Code color theme inspired by [folke/tokyonight.nvim](https://git
 
 ![A screenshot of VS Code editing the rails source code with the Tokyo Night Bright color scheme](assets/screenshot.png)
 
+The above screenshot is using [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono), [Material Product Icons](https://github.com/material-extensions/vscode-material-product-icons), and the [Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme).
+
 ## Credits
 
 - [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) for the color palette
