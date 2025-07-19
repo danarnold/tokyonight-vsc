@@ -1,0 +1,29 @@
+{
+  "name": "tokyo-night-bright",
+  "displayName": "Tokyo Night Bright",
+  "description": "A VS Code color theme inspired by tokyonight.nvim and tokyonight-vscode, using the brighter palette of tokyonight.nvim to create a higher contrast theme.",
+  "version": "0.0.1",
+  "publisher": "danarnold",
+  "engines": {
+    "vscode": ">=1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Bright",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-bright-color-theme.json"
+      }
+    ]
+  },
+  "icon": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danarnold/tokyonight-vsc"
+  },
+  "keywords": ["tokyonight", "theme", "vscode", "color", "dark", "bright"],
+  "__metadata": {
+    "id": "tokyo-night-bright"
+  }
+}
