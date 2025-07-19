@@ -11,9 +11,8 @@ A Visual Studio Code color theme inspired by [folke/tokyonight.nvim](https://git
 ## Building
 
 1. Clone this repository.
-2. Make changes.
-3. Run `npx vsce package` to create a VSIX file.
-4. Install the VSIX in VS Code: `code --install-extension <your-vsix-file>`
+2. Run `npx vsce package` to create a VSIX file.
+3. Install the VSIX in VS Code: `code --install-extension <your-vsix-file>`
 
 ## License
 
